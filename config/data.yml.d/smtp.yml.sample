@@ -1,0 +1,7 @@
+# -*- mode: yaml -*-
+# vi: set ft=yaml :
+
+port: 25
+host: 'mta.expample.com'
+username: 'foo'
+password: 'bar'
